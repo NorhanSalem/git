@@ -27,7 +27,7 @@ git push origin :test
 git tag
 
 
-##Tell me how to delete tag locally and remotely.
+## Tell me how to delete tag locally and remotely.
 ## Delete Tag Locally
 
 git tag -d v1.7
@@ -37,5 +37,5 @@ git tag -d v1.7
 git push origin --delete v1.7
 
 ## Adding Image
-![Image](1..jpg)
+![Image](/1..jpg)
 
